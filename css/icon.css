@@ -1,0 +1,34 @@
+.sz {
+  display: inline-block;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 64px;
+  height: 64px;
+}
+
+.news {
+background: url(../icons/news.png);
+}
+.facebook {
+background: url(../icons/facebook.png);
+}
+.ebook {
+background: url(../icons/ebook.png);
+}
+.ocourse {
+background: url(../icons/courses.png);
+}
+.social {
+background: url(../icons/social.png);
+}
+.calendar {
+background: url(../icons/calendar.png);
+}
+.youtube {
+background: url(../icons/youtube.png);
+}
+.protocol {
+background: url(../icons/protocol.png);
+}
