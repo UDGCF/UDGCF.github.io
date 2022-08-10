@@ -17,6 +17,15 @@ background: url(../icons/facebook.png);
 .ebook {
 background: url(../icons/ebook.png);
 }
+
+.books {
+background: url(../icons/books.png);
+}
+
+.tutorial {
+background: url(../icons/tutorial.png);
+}
+
 .ocourse {
 background: url(../icons/courses.png);
 }
@@ -34,4 +43,16 @@ background: url(../icons/protocol.png);
 }
 .info {
 background: url(../icons/info.png);
+}
+
+.evaluacion {
+background: url(../icons/evaluacion.png);
+}
+
+.investigacion {
+background: url(../icons/investigacion.png);
+}
+
+.print {
+background: url(../icons/print.png);
 }
